@@ -1,0 +1,2 @@
+show((2*4)/48) #This line is for part a of the problem, the probability of selecting a ten. There are 4 suits and 2 copies of each card for each suit so the numerator is 8, there are 8 tens in the deck. The denominatior is 48 because this is total amount of cards. This leads to a probability of 1/6.
+show((2*4*2)/48) #Here is the probability of drawing a jack or a ten. In this case it is the same reasoning as the first, however now there are twice as many cards we can target, 8 tens and 8 jacks so the probability is 16/48 or 1/3.
